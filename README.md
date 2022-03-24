@@ -1,54 +1,33 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
 <h1 align="center">
-  Gatsby minimal starter
+  Personal Site v2
 </h1>
 
-## 🚀 Quick start
+## 🕊️ About the Project
 
-1.  **Create a Gatsby site.**
+I've had this re-design in my back pocket for a bit, and even created the home page (sans nav bar) early last year. Now that I have some time from working from home rather than half in-person, I've rebooted it with some new plans for the site.
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+Rather than it's initial research-oriented focus, it's now centered on my writing in all forms (casual and more serious). Both my writing and the site (i.e. my web development skills) will grow together as I maintain it!
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+## ☀️ Incoming Changes
 
-2.  **Start developing.**
+1.  **Functional Blog**
 
-    Navigate into your new site’s directory and start it up.
+    Use Gatsby and MDX to port over the writing from my previous site (see: jasonmatthewluna.github.io) and the drafts that have been hidden away on my computer for quite some time so they can live here!
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+2.  **Friends List**
 
-3.  **Open the code and start customizing!**
+    I saw a cute tweet (will look for source later) linking to friends' sites and activities and giving little blurbs on why they should be hired. Since this site is semi-professional, it'd be nice to feature some of the friends who have both helped make the site and helped make me.
 
-    Your site is now running at http://localhost:8000!
+3.  **Twitter Feed**
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+    I'm scared to tweet. Honestly, in general, I'm scared of having personal social media accounts.  When it came to marketing and using the company accounts, I had no worries, but building my own brand and connecting it to me has always been a problem. Having some of those thoughts I would post on Twitter featured on my site makes sense and is a good step to overcoming the lack of confidence in posting online.
 
-4.  **Learn more**
+## 🌙 Stretch Goals
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+1.  **Wallpapers**
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+    In designing these cute Super Mario Sunshine-inspired emojis that represent my name, I also created a bunch of different "wallpapers" that could be used as the background of my site. In the future, these should be visible and be able to be toggled on the homepage.
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+2. **Animations & Easter Eggs**
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+    They wouldn't be easter eggs if I told you about them, right?
