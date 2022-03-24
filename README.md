@@ -22,6 +22,10 @@ Rather than it's initial research-oriented focus, it's now centered on my writin
 
     I'm scared to tweet. Honestly, in general, I'm scared of having personal social media accounts.  When it came to marketing and using the company accounts, I had no worries, but building my own brand and connecting it to me has always been a problem. Having some of those thoughts I would post on Twitter featured on my site makes sense and is a good step to overcoming the lack of confidence in posting online.
 
+4. **Responsive Design**
+
+    Any site mainly meant for reading should be consumable on all device types and screens.
+
 ## 🌙 Stretch Goals
 
 1.  **Wallpapers**
