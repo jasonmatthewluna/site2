@@ -8,6 +8,8 @@ I've had this re-design in my back pocket for a bit, and even created the home p
 
 Rather than it's initial research-oriented focus, it's now centered on my writing in all forms (casual and more serious). Both my writing and the site (i.e. my web development skills) will grow together as I maintain it!
 
+Take a look at the Figma file following the evolution of the design [here](https://www.figma.com/file/vesqIc54LnZiE07MLjRzAn/Website?node-id=0%3A1).
+
 ## ☀️ Incoming Changes
 
 1.  **Functional Blog**
