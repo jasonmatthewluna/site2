@@ -35,7 +35,7 @@ const TempBlog = () => {
                 </div>
                 {/* titles */}
                 <div className={headline}>
-                    <p>Temp Title</p>
+                    <p><a href='../temppost'>Temp Title</a></p>
                     <p>Inordinate Length is Added to This Temp Title</p>
                     <p>Wahoo Wahoo Yes, This is a Title</p>
                     <p>Temp Title</p>
