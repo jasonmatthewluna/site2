@@ -19,9 +19,6 @@ import {
   body,
   content,
   icon,
-  navitem,
-  nav,
-  lastnav,
   contact,
 } from './index.module.css'
 
@@ -49,8 +46,8 @@ const IndexPage = () => {
               <p>Currently making way too many skip-the-line loans on Libby, sippin’ on Kirkland kombucha, and feeding my gacha game addiction.</p>
               <p>I also write Every Thought Sent Forth, a sporadic newsletter I devote a lot of thought toward.</p>
             </div>
-            <div className={contact}>
-              <p>@inorganicjay on Twitter</p>
+            <div>
+              <p className={contact}><a href='https://www.twitter.com/inorganicjay'>@inorganicjay</a> on Twitter</p>
             </div>
           </div>
           </div>
