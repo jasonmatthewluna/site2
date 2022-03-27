@@ -9,7 +9,6 @@ html, body {
     background: transparent; /* make scrollbar transparent */
 }
 
-
 .background {
     display: flex;
     width: auto;
@@ -51,6 +50,10 @@ html, body {
     max-width: 525px;
 
     margin-left: 28px;
+}
+
+.headline a {
+    color:#B5C9D7;
 }
 
 .content {
