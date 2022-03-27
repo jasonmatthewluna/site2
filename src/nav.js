@@ -14,7 +14,7 @@ export class Nav extends React.Component {
             <div className={nav}>
           {/* essentially a nav component*/}
           <div className={navitem}>
-            <Link to ="/tempblog">
+            <Link to ="/words">
               words
             </Link>
           </div>
@@ -34,7 +34,7 @@ export class Nav extends React.Component {
             </Link>
           </div>
           <div className={navitem} id={lastnav}>
-            <Link to ="/tempblog">
+            <Link to ="/">
               home
             </Link>
           </div>
